@@ -1,6 +1,6 @@
 - 👋 Salut, moi c'est @FotoDave
 - 👀 Je suis un dévéloppeur FullStack Java
-- 🌱 Je suis intéréssé par le développement logiciel
+- 🌱 Je suis passioné par le développement logiciel
 - 💞️ I’m looking to collaborate on a JAVA project, with SpringBoot and Angular
 - 📫 How to join  the JAVA Community
 
