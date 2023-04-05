@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @FotoDave
-- 👀 I’m interested in  JAVA Development
+- 👋 Salut, moi c'est @FotoDave
+- 👀 Je suis intéréssé par le développement JAVA
 - 🌱 I’m currently learning  JAVA language
 - 💞️ I’m looking to collaborate on a JAVA project
 - 📫 How to join  the JAVA Community
