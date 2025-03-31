@@ -1,8 +1,18 @@
-- 👋 Salut, moi c'est @FotoDave
-- 👀 Je suis un dévéloppeur FullStack Java
-- 🌱 Je suis passioné par le développement logiciel
-- 💞️ I’m looking to collaborate on a JAVA project, with SpringBoot and Angular
-- 📫 How to join  the JAVA Community
+# 👋 Hi, I'm Dave FOTO  
+
+💻 **Software Developer | Passionate about building scalable and efficient applications**  
+
+🚀 I’m currently working on:  
+- Backend & Full Stack Development  
+- Software Architecture & Optimization  
+- Problem-Solving & Algorithmic Challenges  
+
+🌱 I’m learning and exploring:  
+- Advanced Java & C# Development  
+- Cloud & DevOps Best Practices  
+
+📫 **Let's connect!**  
+- LinkedIn: [(https://linkedin.com/)](https://www.linkedin.com/in/dave-foto)
 
 <!---
 FotoDave/FotoDave is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
